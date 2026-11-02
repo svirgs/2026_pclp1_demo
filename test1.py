@@ -1,3 +1,3 @@
 #demo de dimensiune font
 
-print(range(1,3))
+print(list(range(1,3)))
